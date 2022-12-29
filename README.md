@@ -1,5 +1,7 @@
 # React/Typescript Schedule App
 
+***TODO: ~Sahil; REMOVE THIS REPOSITORY ON 15th JAN, 2022. (This example repository code alreay in react folders).***
+
 ## Requirements
 ```shell
 node -v
